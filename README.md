@@ -11,7 +11,7 @@ After scraping, raw temperature data has been saved as **mars_dataframe.csv**, l
 Executing the script provided in the **part_1_mars_news.ipynb** file, located in the **Starter_Code** subfolder, will output the following:
 1. Extracts of the titles and preview text of the news articles relevant to Mars.
 
-Executing the script provided in the **part_2_mars_weather** file, located in this same subfolder, will output the following:
+Executing the script provided in the **part_2_mars_weather.ipynb** file, located in this same subfolder, will output the following:
 1. Number of months on Mars
 2. Number of Martian (and not Earth) days worth of data exist in the scraped dataset
 3. Coldest and the warmest months on Mars
@@ -20,7 +20,7 @@ Executing the script provided in the **part_2_mars_weather** file, located in th
    
 
 ## Credits:
-This code was compiled and written by me for the pymaceuticals challenge class homework in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
+This code was compiled and written by me for the html scraping challenge class homework in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
 
 
 ### Parsing cells of a table, rather than whole rows:
